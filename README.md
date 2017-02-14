@@ -5,38 +5,35 @@ Personal goals made open source.
 
 Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+# Overarching Goals for 2017
+1. Build Community
+2. Complete pivot into tech
+3. Contribute to Open Source
+4. Advanced iOS
+5. Remember mind & body (Reading/Exercise)
 
-# November 00, 2014
+# February, 13 2017
 
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Goal Reset.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
+- [ ] Set up my personal goals repo
+- [X] Send out job applications to companies with values I admire (continued)
+- [ ] Write a blog post on Git
+- [ ] Take time to code! ⌨️
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
 
-### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+### Things I'll Do This Month: February 2017
+- [ ] Finish reading Do Not Say We Have Nothing
+- [ ] Write outline for a tech talk
+- [ ] Add undo function to my Luck Tracker side project
+- [X] Teach intro to Git
+- [X] Research Turn to Tech iOS part-time course
 
-### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+
+### Things On Deck
+- [ ] Read Cracking the Code Interview
+- [ ] Work through all videos on NS Screencast
+- [ ] Design stickers for a Sticker Pack
+- [ ] Become an expert on terminal commands/shortcuts
+- [ ] Become an expert on XCode commands/shortcuts
