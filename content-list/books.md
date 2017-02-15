@@ -15,5 +15,5 @@ February 2017
 To-Read/Recommendations
 - [ ] Cracking the Code Interview
 - [ ] Swift Algorithms
-- [/] The Swift Programming Language (In progress - I tend to read up on concepts I am currently working through.)
+- [ ] The Swift Programming Language (In progress - I tend to read up on concepts I am currently working through.)
 - [ ] Year of Yes
